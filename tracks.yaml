@@ -1,3 +1,4 @@
+release_repo_url: git@github.com:revyos-ros/find_object_2d-release
 tracks:
   foxy:
     actions:
